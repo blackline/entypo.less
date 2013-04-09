@@ -1,4 +1,4 @@
-entypo.less
-===========
+LESS for Entypo
+===============
 
-LESS file for the Entypo glyph font
+This repository provides a LESS file for the [Entypo](http://www.entypo.com/) glyph font.
